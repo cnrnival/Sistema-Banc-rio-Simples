@@ -10,12 +10,15 @@ Projeto Java que simula operações bancárias com contas poupança e corrente. 
 
 ## Como Usar
 1. Clone o repositório:
+   ```bash
    git clone https://github.com/seu-usuario/sistema-bancario-simples.git
    ```
 2. Compile os arquivos Java:
+   ```bash
    javac *.java
    ```
 3. Execute a aplicação:
+   ```bash
    java Contas
    ```
 
@@ -23,5 +26,4 @@ Projeto Java que simula operações bancárias com contas poupança e corrente. 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Autor
-Desenvolvido por cnrnival
-```
+Desenvolvido por cnrnival.
